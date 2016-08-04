@@ -1,0 +1,39 @@
+_repo: Voyage-au-Centre-de-la-Terre_4791
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_bookshelf:
+- FR Science fiction
+- FR Littérature
+- Science Fiction
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4791'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Earth (Planet) -- Core -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PQ'
+- !lcsh 'Voyages, Imaginary -- Fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: Voyage au Centre de la Terre
+url: http://www.gutenberg.org/ebooks/4791
